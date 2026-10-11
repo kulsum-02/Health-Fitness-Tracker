@@ -1,0 +1,3 @@
+@echo off
+echo Starting FitPulse Pro Dev Server...
+call npm.cmd run dev
